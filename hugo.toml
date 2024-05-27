@@ -1,0 +1,65 @@
+baseURL = "https://example.com/"
+languageCode = "en-us"
+title = "Srinivas Raghav V C"
+theme = "typo"
+author = "Srinivas Raghav V C"
+
+
+[params]
+
+ 
+    # Lists parameters
+    paginationSize = 100
+    listSummaries = true
+    listDateFormat = '2 Jan 2006'
+
+    breadcrumbs = true
+
+    author = "Srinivas Raghav V C"
+    description = "Personal portfolio and resume of Srinivas Raghav V C"
+
+    homeIntroTitle = "Hi!"
+    homeIntroContent = """ 
+
+
+I am Srinivas Raghav, a Computer Science and Engineering student at the Indian Institute of Information Technology, Kerala. 
+
+Passionate about software development, data science, and algorithmic problem-solving, I have hands-on experience in various programming languages and frameworks.
+
+I thrive on tackling complex challenges and delivering efficient solutions.
+
+    """
+
+    [[params.social]]
+        name = "linkedin"
+        url = "https://www.linkedin.com/in/srinivasraghav"
+    [[params.social]]
+        name = "github"
+        url = "https://github.com/blizzybastard"
+    [[params.social]]
+        name = "email"
+        url = "mailto:vcraghav64@gmail.com"
+    theme = "auto"
+
+    
+
+
+[markup]
+[markup.highlight]
+style = 'algol'
+
+
+[[params.menu]]
+    name = "About"
+    url = "/"
+[[params.menu]]
+    name = "Resume"
+    url = "/resume/resume.pdf"
+[[params.menu]]
+    name = "Projects"
+    url = "/projects/"
+[[params.menu]]
+    name = "Blog"
+    url = "/blog/"
+
+
