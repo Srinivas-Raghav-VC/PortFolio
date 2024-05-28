@@ -51,15 +51,15 @@ style = 'algol'
 
 [[params.menu]]
     name = "About"
-    url = "/"
+    url = "/PortFolio/"
 [[params.menu]]
     name = "Resume"
-    url = "/resume/resume.pdf"
+    url = "/PortFolio/resume/resume.pdf"
 [[params.menu]]
     name = "Projects"
-    url = "/projects/"
+    url = "/PortFolio/projects/"
 [[params.menu]]
     name = "Blog"
-    url = "/blog/"
+    url = "/PortFolio/blog/"
 
 
