@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Srinivas Raghav V C</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Srinivas Raghav V C</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inventory Management</title>
+      <link>http://localhost:1313/tags/inventory-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/inventory-management/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pyqt5</title>
+      <link>http://localhost:1313/tags/pyqt5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pyqt5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/tags/python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Machine Learning</title>
+      <link>http://localhost:1313/tags/machine-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web Development</title>
+      <link>http://localhost:1313/tags/web-development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/web-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>http://localhost:1313/tags/c&#43;&#43;/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fractals</title>
+      <link>http://localhost:1313/tags/fractals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/fractals/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sfml</title>
+      <link>http://localhost:1313/tags/sfml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sfml/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Physics</title>
+      <link>http://localhost:1313/tags/physics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/physics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Algorithms</title>
+      <link>http://localhost:1313/tags/algorithms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/algorithms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Opencv</title>
+      <link>http://localhost:1313/tags/opencv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/opencv/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
