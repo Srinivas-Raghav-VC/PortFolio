@@ -54,7 +54,7 @@ style = 'algol'
     url = "/PortFolio/"
 [[params.menu]]
     name = "Resume"
-    url = "/PortFolio/resume/resume.pdf"
+    url = "/PortFolio/resume/revised_resume.pdf"
 [[params.menu]]
     name = "Projects"
     url = "/PortFolio/projects/"
